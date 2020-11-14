@@ -10,3 +10,4 @@ Era akumulatorów litowych czy baterii też odchodzi do lamusa do farm wiatrowyc
 dyskiem twardym na energie elektryczną "EHD" opiera się o rezonans cewki Tesli. To urządzenie może zasilić dom, auto i kosztuje 250 zł od 1 sztuki.
 Jeśli auto na baterie słoneczne czy akumulator ma być przełomem to ciekawe czy dojedzie się na 1 ładowaniu bez stania na stacji w korku. 
 A tak mamy przenośne urządzenie sporej mocy do podłączenia każdego odbiornika energi do tego energi za darmo. 
+Podobne rozwiązanie stosowano do zapisu informacji to stare rozwiązanie może zapisać energię na zawsze gdy tą technologie połączymy z mobilnymi power bankami będziemi mieć zawsze i wszędzie energie. A jeśli będzie ona w centrach energetycznych energia w sieci będzie zawsze bez konieczności palenia w piecu. A auto będzie na wolną energię i samo będzie generatorem energii. Ropa to taki sam wymysł jak rola pola czy ręczne tworzenie leków.  Dysk do zapisu energii opiera się o prace dysku SSD. 

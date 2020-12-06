@@ -26,3 +26,4 @@ Do tego oszczędzacza można dodać baterie magnetyczną w której magnesy mają
 Jak dysków energii nie będzie może być taka historia że jak ktoś potrzebuje energii do respiratora lub pracuje nad czymś a energii nie ma to to tej energii ta osoba nie będzie mieć i może coś złego się stać. 
 W Tedzie za pieniążki i układy DNA można mieć posadę, dyplom i certyfikat ISO na IQ jak ma się ładną twarz. Potem mamy taki cud jak czarnobyl czy syf w środowisku. A ludzie inteligetni pracują na wysypisku. 
 Czysta i bezpieczna energia bez szkody dla środowiska: dyski energii, pasywne generatory energii oszczędzacze, fotowoltaika, magnetyczny generator energii silnik i alternator w 1 zespole generującym energię. Odejście od ropy i innych możliwości problem to szkoda dla środowiska i niewolnictwo.  
+Ważna jest mobilność energii i sprzętu, przenośność, kompaktowość, trwałość, opracowane na zapas.

@@ -29,3 +29,4 @@ Czysta i bezpieczna energia bez szkody dla środowiska: dyski energii, pasywne g
 Ważna jest mobilność energii i sprzętu, przenośność, kompaktowość, trwałość, opracowane na zapas.
 Nikt nie kupi urządzenia wolnej energii jeśli można podłączyć tylko do niego 100W a nie 30KW pracującego bez przerwy kolejny szmelc pod choinkę dla naiwniaka z biedronki.  
 Schemat można przekształcić jako układ power bank 230V. 
+Bezpieczną dla człowieka i ekologi energię można brać tylko z urządzeń rezonasowych w formie wtyczki do sieci i generatorów magnetycznych silnik DC i Alternator z baterią.  

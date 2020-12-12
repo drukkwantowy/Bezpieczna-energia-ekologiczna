@@ -30,3 +30,4 @@ Ważna jest mobilność energii i sprzętu, przenośność, kompaktowość, trwa
 Nikt nie kupi urządzenia wolnej energii jeśli można podłączyć tylko do niego 100W a nie 30KW pracującego bez przerwy kolejny szmelc pod choinkę dla naiwniaka z biedronki.  
 Schemat można przekształcić jako układ power bank 230V. 
 Bezpieczną dla człowieka i ekologi energię można brać tylko z urządzeń rezonasowych w formie wtyczki do sieci i generatorów magnetycznych silnik DC i Alternator z baterią.  
+Wiatraki to kolejne wojny z ekologami i szpecenie krajobrazu po 25 latach do renowacji lub budowania od nowa. Panele po 15 latach do wymiany jak akumulatory. Urządzenia rezonasowe mogą być same w sobie beteriami bez cykli ładowania i mogą być wtyczkami energii mobilnej do 30kW wypierając powerbanki, jak i zasilać prądnice w zespole silnik DC i alternator takie urządzenie może pracować w elektrowni. Silnik i alternator łatwiej naprawić i utylizować niż farmy wiatrowe i panele.  

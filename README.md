@@ -37,3 +37,4 @@ Dysk energii może zapisać na stałe informację i energię i kreować energię
 Idąc dalej tym tokiem rozumowania można wymyśleć świecący kryształ który zapisała energię elektryczną jako informacje jest źrudłem mocy jak i światła. 
 Jeśli mamy dostęp do darmowej energii z rezonasu druku kwantowego z udziałem AI mamy już dostęp do samoreplikujących się maszyn z poziomu telefonu i głośnika AI. Prosta droga do idealnego życia wykorzystującego wirtualne środowiska bez udziału człowieka. Pułapką życia jest twierdzenie że praca ciężka uszlachetnia duszę czyli ciemnogród z Angli.  
 Ekologiczna energia dla aut: Silnik na sprężone powietrze, wspomagany elektrycznym, energia elektryczna zapisana na dysku SSD, energia pozyskiwana z paneli fotowoltaicznych. Dodatkowo specjalny filtr kwantowy który zamienia szkodliwe gazy w energie elektryczną lub tlen do kompresora. 
+Można też opracować kwantowy filtr który EMP zamienia w tlen lub energię dla baterii. 
